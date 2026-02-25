@@ -111,4 +111,4 @@ At integer codepoint evaluation, the gates become exact indicator functions. The
 
 ## License
 
-MIT
+GPLv3
